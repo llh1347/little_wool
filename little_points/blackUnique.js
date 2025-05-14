@@ -17,7 +17,7 @@ V2P，圈X：重写方法 -- 点击右下角【我的】-> 【每日签到赚现
 #全球购骑士特权
 0 * * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/blackUnique.js, tag=全球购骑士特权, enabled=true
 [rewrite_local]
-https://market.chuxingyouhui.com/promo-bargain-api/activity/mqq/api/indexTopInfo? url script-request-header https://raw.githubusercontent.com/leafTheFish/DeathNote/main/blackUnique.js
+https://market.chuxingyouhui.com/promo-bargain-api/activity/mqq/api/indexTopInfo? url script-request-header https://raw.githubusercontent.com/llh1347/little_wool/refs/heads/main/little_points/blackUnique.js
 [MITM]
 hostname = market.chuxingyouhui.com
 
